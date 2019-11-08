@@ -1,2 +1,19 @@
 # Python-Programming
 Python Tutorials
+# Week1 - Basics
+## Syntax
+## Compilers
+## Variable Types
+## Exercise - Print first name last name
+### Write a program that will
+### Ask the user for their first name
+### Ask the user for their age
+### Display their full name in a LName, FName format.
+### Print the year the user was born
+### If the user is under 18, print that the user is too young to vote
+### If the user is under 21, print that the user is old enough to vote, but too young to drink
+### If the user is between 21 and 65, print that the user is old enough to vote and drink
+### Otherwise, print that the user qualifies for social security
+### When you write your program, try to put some of these things into functions.
+### Another hint : You might run into errors when you calculate the year of birth – this is because you have to type cast the variable types!
+### Be sure to write internal documentation as well
