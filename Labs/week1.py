@@ -13,7 +13,7 @@ def note():
        print("You are too young to vote, Bud") 
     elif age < 21:
        print("Pal!You are old enough to vote,but too young to drink")
-    elif 21 < age < 65:
+    elif 21 <= age < 65:
        print("Great job!You are old enough to vote and drink")
     else:
        print("You qualify for Social Security")
